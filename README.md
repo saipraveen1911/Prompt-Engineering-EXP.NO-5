@@ -272,3 +272,5 @@ Your work clearly proves:
 ________________________________________
 
 ## RESULT: 
+
+Thus, the comparative analysis of different types of prompting patterns and explain with various test scenarios have been evaluated and presented in the observation table.
